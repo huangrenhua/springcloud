@@ -1,0 +1,4 @@
+#微服端口
+server.port=8888
+spring.application.name=compute-service
+spring.cloud.config.discovery.serviceId=confing-service
